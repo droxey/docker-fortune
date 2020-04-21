@@ -1,29 +1,11 @@
-<p align="center"><strong style="color: red;">❌&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STOP: DO NOT CLONE THIS REPO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌</strong><br>Carefully <b>follow the instructions below</b> to ensure you <b>get credit</b> for this assignment.</p>
+
+# 🔮 docker-fortune
+
+**Execute Unix `fortune` on any OS using Docker!**
+
+> `fortune` is a program that displays a pseudorandom message from a database of quotations that first appeared in Version 7 Unix. Distributions of `fortune` are usually bundled with a collection of themed files, containing sayings like those found on fortune cookies (hence the name), quotations from famous people, jokes, or poetry. -[fortune (Unix) @ Wikipedia](https://en.wikipedia.org/wiki/Fortune_(Unix))
 
 ---
-
-# 🐳 docker-starter
-
-_Use this required starter pack for all assignments in [BEW 2.2: DevOps, Deployments &amp; Containers](https://make.sc/bew2.2). Follow the instructions below, and submit the resulting repository on [Gradescope](https://make.sc/trackbew2.2) by the assigned due date._
-
-## 📂 Project Files
-
-| Filename | Description |
-| -------- | ----------- |
-| `.gitignore` | General ignore file. Optimized for Python. |
-| `.dockerignore` | A list of files that will not be copied during build. |
-| `captain-definition` | **DO NOT MODIFY.** Used by CapRover for deployment. |
-| `Dockerfile` | **Implement solutions in this file**. |
-| `README.md` | Replace this `README` with content describing the purpose of your project. |
-
-## 🏁 Get Started
-
-1. [Import an existing repository on GitHub](https://github.com/new/import).
-1. Under `Your old repository's clone URL`, paste `https://github.com/make-school-labs/docker-starter`.
-1. Name your repository according to the assignment instructions.
-    <img src="https://github.com/Make-School-Courses/BEW-2.2-Docker-DevOps-Deployments/blob/master/Images/import.png?raw=true" width="60%">
-1. Click `Begin Import`.
-1. Locally clone your new copy of the starter code.
 
 ## 📦 Building & Running
 
